@@ -1,0 +1,16 @@
+# Map file for tile-based game
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   0       opponent Warrior
+#   1       Dog Sprite
+#   2       Guard Sprite
+#   3       + (health)
+#   4       heart (life)
+#   5       star (new map)
+#   6       door (new map)
+
+
+    0                                              3    5          6        
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
