@@ -61,5 +61,6 @@ Next Track – N
 Mute – M    
 Exit – Esc  
 
-
+## Note on Licensing
+The architecture of the game was inspired from chapter 5 of *Developing Games in Java - David Brackeen*.
 
