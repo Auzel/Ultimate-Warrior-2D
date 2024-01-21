@@ -11,6 +11,11 @@ The player’s aim is to traverse through the dungeon to unlock the prison cell 
 
 Note: Various players can compete amongst themselves by comparing XP scores. In the next release, higher levels in the game will have greater difficulty, where dogs, guards, and imprisoned warriors are bigger, faster, stronger and dies less easily. 
 
+## Walkthrough
+
+https://github.com/Auzel/Ultimate-Warrior-2D/assets/49824623/4cbd3b3e-5965-446d-8b30-dd9d323ea6b5
+
+<br/>
 
 ## Main Game Entites
 
