@@ -17,6 +17,11 @@ https://github.com/Auzel/Ultimate-Warrior-2D/assets/49824623/4cbd3b3e-5965-446d-
 
 <br/>
 
+## Class Diagram
+<img width="700" alt="Ultimate_Warrior_Class_Diasgram" src="https://github.com/Auzel/Ultimate-Warrior-2D/assets/49824623/85f65296-890a-4107-87d6-f7d183367bed">
+
+<br/>
+
 ## Main Game Entites
 
 ### Warriors
@@ -65,6 +70,7 @@ Restart – R
 Next Track – N    
 Mute – M    
 Exit – Esc  
+
 
 ## Note on Licensing
 The architecture of the game was inspired from chapter 5 of *Developing Games in Java - David Brackeen*.
